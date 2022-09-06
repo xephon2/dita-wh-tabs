@@ -10,7 +10,7 @@ A sample DITA Map that contains can be found in the "samples" folder.
 
 ## Format
 
-```
+```xml
 <fig outputclass="tabbed-codeblock" id="fig_1">
   <codeblock outputclass="language-javascript">http.request('/login', {
      method: 'POST',
